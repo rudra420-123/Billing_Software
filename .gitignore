@@ -1,0 +1,56 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Environment variables
+.env
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# PyInstaller
+*.manifest
+*.spec
+*.exe
+*.dll
+*.pyz
+*.pyc
+*.pyo
+
+# Mac OS
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Billing files
+bills/*.txt
+last_bill_number.txt
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
